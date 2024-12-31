@@ -1,6 +1,7 @@
 # joule-ecosystem-model
 Developing a joule-based economic model to simulate and analyze energy flows in a sustainable and equitable future.  Includes research, data, and code.
-This project explores the revolutionary concept of a **joule-based economy**, where energy, measured in joules, becomes the fundamental unit of value.  We believe this approach has the potential to create a more sustainable, equitable, and human-centered economic system.
+
+This project explores the revolutionary concept of a **joule-based economy**, where energy, measured in joules, becomes the fundamental unit of value.  This approach has the potential to create a more sustainable, equitable, and human-centered economic system.
 
 **Key Goals:**
 
@@ -8,7 +9,7 @@ This project explores the revolutionary concept of a **joule-based economy**, wh
 * **Enhance Earth System Models (ESMs):**  We will integrate joule-based calculations into existing ESMs to improve their accuracy and predictive capabilities, allowing for a better understanding of the Earth's energy dynamics and the impact of human activities.
 * **Build an interactive platform:**  We will create a user-friendly platform to visualize and interact with the model, enabling users to explore different scenarios, understand energy flows, and contribute to the project's development.
 * **Develop a joule-backed cryptocurrency:** We will explore the creation of a cryptocurrency backed by energy (joules), potentially through renewable energy production or human energy expenditure.
-* **Communicate our findings:** We will publish our research findings in academic journals and create a multimedia book to share this vision with a wider audience.
+* **Communicate our findings:** We will publish our research findings in academic journals and create a joule dashboard that provides energy flow metrics and economic modeling based on joules.
 
 **Join the Journey:**
 
@@ -16,7 +17,7 @@ We invite researchers, developers, and anyone passionate about sustainability an
 
 **Contact:**
 
-[Your Name/Contact Information]
+Chad Anderson chad.anderson@jouledrive.com
 
 **Links:**
 
